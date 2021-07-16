@@ -1,5 +1,6 @@
 def main():
-    print("Hello, world!")
-
+    print("Hello, World!")
+    answer = input("Enter something: ")
+    print(answer)
 
 main()
